@@ -1,1 +1,2 @@
 # VideoViewing
+A video viewing site where user enters section, course id and shortend youtube url. The course ids are generated depending upon the section selected. The youtube url gets saved in the database after submitting the form. Moreover, there is also a functionality for viewing all the youtube videos saved in the database. A filter option is also provided where only the videos of selected section and course id are displayed.
